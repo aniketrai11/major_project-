@@ -1,0 +1,545 @@
+[{
+  "_id": {
+    "$oid": "65449ccb934a7136b08ba6ec"
+  },
+  "ratings": 4.5,
+  "stock": 1,
+  "numOfReviews": 2,
+  "name": "OnePlus Nord 3 5G (Misty Green, 8GB RAM, 128GB Storage)",
+  "price": 33999,
+  "description": "Colour:Misty Green\r\nSize:8GB RAM, 128GB Storage\r\n",
+  "category": "SmartPhones",
+  "images": [
+    {
+      "_id": {
+        "$oid": "655b9a400057204fb4bec934"
+      },
+      "public_id": "products/t1tp98m6igs8fxcjsmyo",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700502070/products/t1tp98m6igs8fxcjsmyo.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "655b9a400057204fb4bec935"
+      },
+      "public_id": "products/kokj2vikbactovocqctx",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700502072/products/kokj2vikbactovocqctx.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "655b9a400057204fb4bec936"
+      },
+      "public_id": "products/ieiukqcjph1ywecwqikj",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700502075/products/ieiukqcjph1ywecwqikj.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "655b9a400057204fb4bec937"
+      },
+      "public_id": "products/tyb3y85zn1xcv6uiew1b",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700502077/products/tyb3y85zn1xcv6uiew1b.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "655b9a400057204fb4bec938"
+      },
+      "public_id": "products/ldxw57a94micu8q6leru",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700502080/products/ldxw57a94micu8q6leru.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "654f18c63484602bf828af3e"
+      },
+      "user": {
+        "$oid": "6548bb918c2bdf2e7cce5664"
+      },
+      "name": "Mayank",
+      "rating": 4
+    },
+    {
+      "_id": {
+        "$oid": "655ae5d21ab5d430e841d83c"
+      },
+      "user": {
+        "$oid": "655ae0b01ab5d430e841d76d"
+      },
+      "name": "Rutvika",
+      "rating": 5,
+      "comment": ""
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-03T07:10:03.666Z"
+  },
+  "__v": 3,
+  "Stock": 9
+},
+{
+  "_id": {
+    "$oid": "65449cd0934a7136b08ba6ef"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "OnePlus Nord 3 5G (Misty Green, 8GB RAM, 128GB Storage)",
+  "price": 33999,
+  "description": "Colour:Misty Green Size:8GB RAM, 128GB Storage",
+  "category": "SmartPhones",
+  "images": [
+    {
+      "_id": {
+        "$oid": "655b9bda1da7b75598edacc3"
+      },
+      "public_id": "products/vuldugf6c1xt44b21bdf",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700502479/products/vuldugf6c1xt44b21bdf.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "655b9bda1da7b75598edacc4"
+      },
+      "public_id": "products/lvw9lnvvmulglndyr8vm",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700502481/products/lvw9lnvvmulglndyr8vm.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "655b9bda1da7b75598edacc5"
+      },
+      "public_id": "products/shqwn3ypmrklbl0ldjba",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700502484/products/shqwn3ypmrklbl0ldjba.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "655b9bda1da7b75598edacc6"
+      },
+      "public_id": "products/xhjgbr2m6fy6qt2j2vi0",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700502487/products/xhjgbr2m6fy6qt2j2vi0.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "655b9bda1da7b75598edacc7"
+      },
+      "public_id": "products/y1g1v0tx86fu3rpgpyqt",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700502490/products/y1g1v0tx86fu3rpgpyqt.jpg"
+    }
+  ],
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-03T07:10:08.981Z"
+  },
+  "__v": 0,
+  "Stock": 15
+},
+{
+  "_id": {
+    "$oid": "65449f895ef178639895be4d"
+  },
+  "ratings": 4.75,
+  "stock": 1,
+  "numOfReviews": 4,
+  "name": "Solids Rugby Polo: Navy Striped",
+  "price": 599,
+  "description": "96% Cotton 4% Spandex\r\nMachine Wash\r\n\r\nCountry of Origin: India (and proud)\r\n",
+  "category": "Attire",
+  "images": [
+    {
+      "_id": {
+        "$oid": "655b9de01da7b75598edace8"
+      },
+      "public_id": "products/gt9rd8f8db8ssgnmjz5p",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700503004/products/gt9rd8f8db8ssgnmjz5p.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "655b9de01da7b75598edace9"
+      },
+      "public_id": "products/jbpfdrkjowvtvded1heu",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700503005/products/jbpfdrkjowvtvded1heu.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "655b9de01da7b75598edacea"
+      },
+      "public_id": "products/wrx9x8yh2yxxdwxagl4l",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700503008/products/wrx9x8yh2yxxdwxagl4l.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "655ba8a816047d17f85f80d9"
+      },
+      "user": {
+        "$oid": "655b9f23db083211dc1c063d"
+      },
+      "name": "Abhidatt Sharma",
+      "rating": 5,
+      "comment": "good product\r\n"
+    },
+    {
+      "_id": {
+        "$oid": "655ba90916047d17f85f8102"
+      },
+      "user": {
+        "$oid": "655ba7c916047d17f85f8097"
+      },
+      "name": "naman",
+      "rating": 4,
+      "comment": "perfect"
+    },
+    {
+      "_id": {
+        "$oid": "655c31a349ad2912201df93d"
+      },
+      "user": {
+        "$oid": "655c2ec249ad2912201df8d1"
+      },
+      "name": "garima",
+      "rating": 5,
+      "comment": "Best quality product but little bit costly "
+    },
+    {
+      "_id": {
+        "$oid": "655c31cc49ad2912201df947"
+      },
+      "user": {
+        "$oid": "6548bb918c2bdf2e7cce5664"
+      },
+      "name": "Mayank",
+      "rating": 5,
+      "comment": ""
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-03T07:21:45.950Z"
+  },
+  "__v": 4,
+  "Stock": 13
+},
+{
+  "_id": {
+    "$oid": "65461590ea925c3088cb1c3f"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "product1",
+  "price": 1200,
+  "description": "this is a sample product",
+  "category": "laptop",
+  "images": [
+    {
+      "_id": {
+        "$oid": "65461590ea925c3088cb1c40"
+      },
+      "public_id": "sample image",
+      "url": "sampleUrl"
+    }
+  ],
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-04T09:57:36.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65461598ea925c3088cb1c42"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "product5",
+  "price": 1200,
+  "description": "this is a sample product",
+  "category": "laptop",
+  "images": [
+    {
+      "_id": {
+        "$oid": "65461598ea925c3088cb1c43"
+      },
+      "public_id": "sample image",
+      "url": "sampleUrl"
+    }
+  ],
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-04T09:57:44.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6546159dea925c3088cb1c45"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "product4",
+  "price": 1200,
+  "description": "this is a sample product",
+  "category": "laptop",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6546159dea925c3088cb1c46"
+      },
+      "public_id": "sample image",
+      "url": "sampleUrl"
+    }
+  ],
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-04T09:57:49.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654615a3ea925c3088cb1c48"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "product7",
+  "price": 1200,
+  "description": "this is a sample product",
+  "category": "laptop",
+  "images": [
+    {
+      "_id": {
+        "$oid": "654615a3ea925c3088cb1c49"
+      },
+      "public_id": "sample image",
+      "url": "sampleUrl"
+    }
+  ],
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-04T09:57:55.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654615a7ea925c3088cb1c4b"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "product6",
+  "price": 1200,
+  "description": "this is a sample product",
+  "category": "laptop",
+  "images": [
+    {
+      "_id": {
+        "$oid": "654615a7ea925c3088cb1c4c"
+      },
+      "public_id": "sample image",
+      "url": "sampleUrl"
+    }
+  ],
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-04T09:57:59.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654615acea925c3088cb1c4e"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "product8",
+  "price": 1200,
+  "description": "this is a sample product",
+  "category": "laptop",
+  "images": [
+    {
+      "_id": {
+        "$oid": "654615acea925c3088cb1c4f"
+      },
+      "public_id": "sample image",
+      "url": "sampleUrl"
+    }
+  ],
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-04T09:58:04.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654615b1ea925c3088cb1c51"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "product9",
+  "price": 1200,
+  "description": "this is a sample product",
+  "category": "laptop",
+  "images": [
+    {
+      "_id": {
+        "$oid": "654615b1ea925c3088cb1c52"
+      },
+      "public_id": "sample image",
+      "url": "sampleUrl"
+    }
+  ],
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-04T09:58:09.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6548b01cc5236e0aac0fb9f1"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "item",
+  "price": 12000,
+  "description": "this is a sample product",
+  "category": "machine",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6548b01cc5236e0aac0fb9f2"
+      },
+      "public_id": "sample image",
+      "url": "sampleUrl"
+    }
+  ],
+  "user": {
+    "$oid": "65489fec8fe7025704166838"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-06T09:21:32.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654a7405f96ef11d18ad8d7a"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "item",
+  "price": 12000,
+  "description": "this is a sample product",
+  "category": "machine",
+  "images": [
+    {
+      "_id": {
+        "$oid": "654a7405f96ef11d18ad8d7b"
+      },
+      "public_id": "sample image",
+      "url": "sampleUrl"
+    }
+  ],
+  "user": {
+    "$oid": "6548bb918c2bdf2e7cce5664"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-07T17:29:41.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654d2f596138cf336479cca3"
+  },
+  "ratings": 0,
+  "stock": 1,
+  "numOfReviews": 0,
+  "name": "Trimmer",
+  "price": 3000,
+  "description": "Phillips trimmer",
+  "category": "machine",
+  "images": [
+    {
+      "_id": {
+        "$oid": "654d2f596138cf336479cca4"
+      },
+      "public_id": "sample image",
+      "url": "sampleUrl"
+    }
+  ],
+  "user": {
+    "$oid": "6548bb918c2bdf2e7cce5664"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-09T19:13:29.217Z"
+  },
+  "__v": 0,
+  "Stock": 0
+},
+{
+  "_id": {
+    "$oid": "6557afa011820e53a45b6c6c"
+  },
+  "ratings": 0,
+  "Stock": 10,
+  "numOfReviews": 0,
+  "name": "Dell Insipiron 15 Laptop",
+  "price": 73000,
+  "description": "Dell Laptop 16 Gb Ram 256 Storage Intel i-5 12th Generation",
+  "category": "Laptop",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6557afa011820e53a45b6c6d"
+      },
+      "public_id": "products/om4paeq7l9qfmnkbrs1x",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700245399/products/om4paeq7l9qfmnkbrs1x.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "6557afa011820e53a45b6c6e"
+      },
+      "public_id": "products/gud343s0f6ucex2wv5eb",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700245401/products/gud343s0f6ucex2wv5eb.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "6557afa011820e53a45b6c6f"
+      },
+      "public_id": "products/l4scxk0kwbepdkorqtxt",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700245403/products/l4scxk0kwbepdkorqtxt.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "6557afa011820e53a45b6c70"
+      },
+      "public_id": "products/fs0ly0ky7rncxknkqhxj",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700245406/products/fs0ly0ky7rncxknkqhxj.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "6557afa011820e53a45b6c71"
+      },
+      "public_id": "products/yl5hhi0srzewdeh7p4cl",
+      "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700245407/products/yl5hhi0srzewdeh7p4cl.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "6548bb918c2bdf2e7cce5664"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-17T18:23:28.464Z"
+  },
+  "__v": 0
+}]

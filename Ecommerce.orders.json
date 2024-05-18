@@ -1,0 +1,246 @@
+[{
+  "_id": {
+    "$oid": "654d35b09489a6528844addd"
+  },
+  "itemsPrice": 3000,
+  "taxPrice": 360,
+  "shippingPrice": 100,
+  "totalPrice": 3460,
+  "orderStatus": "shipped",
+  "shippingInfo": {
+    "address": "Medicaps-University",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "pinCode": 453331,
+    "phoneNo": {
+      "$numberLong": "9713025501"
+    }
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "654d35b09489a6528844adde"
+      },
+      "product": {
+        "$oid": "654d2f596138cf336479cca3"
+      },
+      "name": "Trimmer",
+      "price": 3000,
+      "image": "sampleimage",
+      "quantity": 1
+    }
+  ],
+  "paymentInfo": {
+    "id": "sample payment done",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-11-09T19:40:32.501Z"
+  },
+  "user": {
+    "$oid": "6548bb918c2bdf2e7cce5664"
+  },
+  "createdAt": {
+    "$date": "2023-11-09T19:40:32.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ba09c2239d759781c4071"
+  },
+  "itemsPrice": 599,
+  "taxPrice": 107.82,
+  "shippingPrice": 200,
+  "totalPrice": 906.8199999999999,
+  "orderStatus": "Delivered",
+  "shippingInfo": {
+    "address": "tilak path galat address",
+    "city": "Indore",
+    "state": "MP",
+    "country": "IN",
+    "pinCode": 452001,
+    "phoneNo": {
+      "$numberLong": "7049966880"
+    }
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "655ba09c2239d759781c4072"
+      },
+      "product": {
+        "$oid": "65449f895ef178639895be4d"
+      },
+      "name": "Solids Rugby Polo: Navy Striped",
+      "price": 599,
+      "image": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700503004/products/gt9rd8f8db8ssgnmjz5p.jpg",
+      "quantity": 1
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3OEbtRSDGdwRxadJ0XzWiYo8",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-11-20T18:08:28.537Z"
+  },
+  "user": {
+    "$oid": "655b9f23db083211dc1c063d"
+  },
+  "createdAt": {
+    "$date": "2023-11-20T18:08:28.545Z"
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2023-11-20T18:43:21.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655ba81516047d17f85f80a7"
+  },
+  "itemsPrice": 599,
+  "taxPrice": 107.82,
+  "shippingPrice": 200,
+  "totalPrice": 906.8199999999999,
+  "orderStatus": "Shipped",
+  "shippingInfo": {
+    "address": "tilak path galat address",
+    "city": "Indore",
+    "state": "MP",
+    "country": "IN",
+    "pinCode": 452001,
+    "phoneNo": {
+      "$numberLong": "7049966880"
+    }
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "655ba81516047d17f85f80a8"
+      },
+      "product": {
+        "$oid": "65449f895ef178639895be4d"
+      },
+      "name": "Solids Rugby Polo: Navy Striped",
+      "price": 599,
+      "image": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700503004/products/gt9rd8f8db8ssgnmjz5p.jpg",
+      "quantity": 1
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3OEcOHSDGdwRxadJ0W1oxDJb",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-11-20T18:40:21.421Z"
+  },
+  "user": {
+    "$oid": "655ba7c916047d17f85f8097"
+  },
+  "createdAt": {
+    "$date": "2023-11-20T18:40:21.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c2d2f469fbf43a0e6a0fc"
+  },
+  "itemsPrice": 1198,
+  "taxPrice": 215.64,
+  "shippingPrice": 0,
+  "totalPrice": 1413.6399999999999,
+  "orderStatus": "Shipped",
+  "shippingInfo": {
+    "address": "60 feet road ke aage ",
+    "city": "Indore",
+    "state": "MP",
+    "country": "IN",
+    "pinCode": 452005,
+    "phoneNo": {
+      "$numberLong": "7879010931"
+    }
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "655c2d2f469fbf43a0e6a0fd"
+      },
+      "product": {
+        "$oid": "65449f895ef178639895be4d"
+      },
+      "name": "Solids Rugby Polo: Navy Striped",
+      "price": 599,
+      "image": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700503004/products/gt9rd8f8db8ssgnmjz5p.jpg",
+      "quantity": 2
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3OElFsSDGdwRxadJ1KY7smYn",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-11-21T04:08:15.622Z"
+  },
+  "user": {
+    "$oid": "655c2ca5469fbf43a0e6a0e6"
+  },
+  "createdAt": {
+    "$date": "2023-11-21T04:08:15.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c2fc149ad2912201df8ed"
+  },
+  "itemsPrice": 599,
+  "taxPrice": 107.82,
+  "shippingPrice": 200,
+  "totalPrice": 906.8199999999999,
+  "orderStatus": "Delivered",
+  "shippingInfo": {
+    "address": "60 feet road ke aage ",
+    "city": "Indore",
+    "state": "MP",
+    "country": "IN",
+    "pinCode": 452005,
+    "phoneNo": {
+      "$numberLong": "7879010931"
+    }
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "655c2fc149ad2912201df8ee"
+      },
+      "product": {
+        "$oid": "65449f895ef178639895be4d"
+      },
+      "name": "Solids Rugby Polo: Navy Striped",
+      "price": 599,
+      "image": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700503004/products/gt9rd8f8db8ssgnmjz5p.jpg",
+      "quantity": 1
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3OElQUSDGdwRxadJ0Eakucbm",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-11-21T04:19:13.786Z"
+  },
+  "user": {
+    "$oid": "655c2ec249ad2912201df8d1"
+  },
+  "createdAt": {
+    "$date": "2023-11-21T04:19:13.788Z"
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2023-11-21T04:25:24.780Z"
+  }
+}]

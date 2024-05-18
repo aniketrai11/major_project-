@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "6548bb918c2bdf2e7cce5664"
+  },
+  "role": "admin",
+  "name": "Mayank",
+  "email": "ppp22042002@gmail.com",
+  "password": "$2a$10$9LaBUItpwQHoHKDt0DLtNuvsULSEBqFaS2O/FY0j5cl8YYf3rCpDS",
+  "avatar": {
+    "public_id": "avatars/qsvywdi1drf7veimz67d",
+    "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1699982635/avatars/qsvywdi1drf7veimz67d.webp"
+  },
+  "createdAt": {
+    "$date": "2023-11-06T10:10:25.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654948706e17353afcabd731"
+  },
+  "role": "admin",
+  "name": "Mayank",
+  "email": "628889@gmail.com",
+  "password": "$2a$10$HanoNJniia7YQQWPbdeL9OHinHK2Ue9BgWwW.DfLSGj5.qauD/lTC",
+  "avatar": {
+    "public_id": "this is a sample id",
+    "url": "profilepicUrl"
+  },
+  "createdAt": {
+    "$date": "2023-11-06T20:11:28.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65579f96e1004470e8e1b159"
+  },
+  "role": "user",
+  "name": "temp",
+  "email": "testingtemp2000@gmail.com",
+  "password": "$2a$10$gHuns2ijcHAoWce/hnmKe.NDS6UnlV4k3khrNsT/T67s2nyn3mNLK",
+  "avatar": {
+    "public_id": "avatars/bnhuxaoy1mszkadwtqvt",
+    "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700241301/avatars/bnhuxaoy1mszkadwtqvt.png"
+  },
+  "createdAt": {
+    "$date": "2023-11-17T17:15:02.796Z"
+  },
+  "__v": 0,
+  "resetPasswordExpire": {
+    "$date": "2023-11-17T17:30:13.274Z"
+  },
+  "resetPasswordToken": "e12e614388280fcc9906063c76f08859617a2852bc76d1a844c2271095cb331a"
+},
+{
+  "_id": {
+    "$oid": "655b9f23db083211dc1c063d"
+  },
+  "role": "admin",
+  "name": "Abhidatt Sharma",
+  "email": "abhidatt007@gmail.com",
+  "password": "$2a$10$owpCRezOJlzSCwLDaDoOjOKhMV44mFV9FWlLhv3OP8/vPVhww45E2",
+  "avatar": {
+    "public_id": "avatars/cr44vgigawzvkkydra4l",
+    "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700503331/avatars/cr44vgigawzvkkydra4l.png"
+  },
+  "createdAt": {
+    "$date": "2023-11-20T18:02:11.662Z"
+  },
+  "__v": 0,
+  "resetPasswordExpire": {
+    "$date": "2023-11-20T18:27:56.057Z"
+  },
+  "resetPasswordToken": "b556a5146404bacf2b2c1621212a62620fdc9b29308acad07165ef66cee5d9f3"
+},
+{
+  "_id": {
+    "$oid": "655ba0f72239d759781c407e"
+  },
+  "role": "user",
+  "name": "abcd",
+  "email": "ABC@gmail.com",
+  "password": "$2a$10$fvfQ5lfXJpt6u7v4.JNbUuBPjKmbGwreMNpy5uOvgdbiZ8lF0/CLq",
+  "avatar": {
+    "public_id": "avatars/jv0oksgacmmtg9tpgyrt",
+    "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700503799/avatars/jv0oksgacmmtg9tpgyrt.webp"
+  },
+  "createdAt": {
+    "$date": "2023-11-20T18:09:59.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ba7c916047d17f85f8097"
+  },
+  "role": "user",
+  "name": "naman",
+  "email": "naman909@gmail.com",
+  "password": "$2a$10$r/KxsuTPMGYzFYjJ7eD8Ze1GEU7yV5ss30cwS8.6xBTzy1W6ERnEO",
+  "avatar": {
+    "public_id": "avatars/ooe4c8n2fjlzwtt6eaz8",
+    "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700505545/avatars/ooe4c8n2fjlzwtt6eaz8.jpg"
+  },
+  "createdAt": {
+    "$date": "2023-11-20T18:39:05.628Z"
+  },
+  "__v": 0,
+  "resetPasswordExpire": {
+    "$date": "2023-11-20T19:00:48.343Z"
+  },
+  "resetPasswordToken": "40fa915b0f5adc59c7ac5a5059715fc7646ef4c936c3839ed321a54cb269feed"
+},
+{
+  "_id": {
+    "$oid": "655c2ca5469fbf43a0e6a0e6"
+  },
+  "role": "user",
+  "name": "Harsh Golchha",
+  "email": "golchhaharsh497@gmail.com",
+  "password": "$2a$10$A.O6Opt55ChPIIcgYQzKaeurLTHbSNhbHJW20zoQKKqURGoWVZ.pa",
+  "avatar": {
+    "public_id": "avatars/lczrgbdm4uew46hzivjq",
+    "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700539557/avatars/lczrgbdm4uew46hzivjq.jpg"
+  },
+  "createdAt": {
+    "$date": "2023-11-21T04:05:57.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c2ec249ad2912201df8d1"
+  },
+  "role": "user",
+  "name": "garima",
+  "email": "garima.silakari@medicaps.ac.in",
+  "password": "$2a$10$enrZ/31RtHG1OxSFT.hztehlSVPkHT.yoCerTY5SXg7HPi2wQgFNO",
+  "avatar": {
+    "public_id": "avatars/ikmhwwi5lespaysyepw6",
+    "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700540097/avatars/ikmhwwi5lespaysyepw6.jpg"
+  },
+  "createdAt": {
+    "$date": "2023-11-21T04:14:58.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655dabc35841e439f08d86b0"
+  },
+  "role": "user",
+  "name": "mayank",
+  "email": "mayankpatidar222@gmail.com",
+  "password": "$2a$10$irbT.bSie8/bu2.g4LhuvujvmUwAn.ExKZY2dSqNjKdZx5SrCSKOa",
+  "avatar": {
+    "public_id": "avatars/bkfatruaedvkxeddzke3",
+    "url": "https://res.cloudinary.com/dbs5tz80n/image/upload/v1700637635/avatars/bkfatruaedvkxeddzke3.webp"
+  },
+  "createdAt": {
+    "$date": "2023-11-22T07:20:35.832Z"
+  },
+  "__v": 0,
+  "resetPasswordExpire": {
+    "$date": "2023-11-22T07:35:55.009Z"
+  },
+  "resetPasswordToken": "13588ea67be854bd59819a58ee88991d1d23314aeea8a20dcf7b263ccce24b64"
+}]
